@@ -3,7 +3,7 @@ function add(x, y) {
     return "Invalid";
   }
 
-  return x + y;
+  return x - y;
 }
 
 function subtract(x, y) {
